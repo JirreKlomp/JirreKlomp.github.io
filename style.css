@@ -1,0 +1,81 @@
+body {
+  background-color: white;
+}
+
+p {
+  text-decoration: underline;
+  font-style: oblique;
+  font-size: 20px;
+  color: darkcyan;
+}
+
+h1 {
+  font-size: 50px;
+  color: darkcyan;
+}
+
+h2 {
+  color: cornflowerblue;
+}
+
+
+table {
+  border-collapse: collapse;
+  border: solid;
+  border-color: gray;
+  border-width: 1px;
+}
+
+td {
+  font-size: 20px;
+  padding-left: 200px;
+  padding-right: 150px;
+  width: 300px;
+  border: solid;
+  border-color: gray;
+  border-width: 2px;
+  background-color: darkred;
+  color: yellow;
+}
+
+.nieuwelink {
+  color: yellow;
+  text-decoration: none;
+}
+
+.nieuwelink:hover {
+  color: blue;
+}
+
+.oudelink {
+  color: black;
+}
+
+th {
+  font-size: 50px;
+}
+
+td.tijd {
+  font-size: 18px;
+}
+
+p.tijd {
+  font-size: 18px;
+  color: yellow;
+}
+
+body.grijs {
+  background-color: gray;
+}
+
+li {
+  font-style: italic;
+}
+
+p.geenonderstreping {
+  text-decoration: none;
+}
+
+iframe {
+  border: 0px;
+}
